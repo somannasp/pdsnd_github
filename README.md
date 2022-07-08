@@ -10,6 +10,7 @@ Learn GIT
 
 ### Description
 Describe what your project is about and what it does
+Learn to use GIT in local and remote repository
 
 ### Files used
 Include the files used
